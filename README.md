@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PGFM
+- 👋 Hi, I’m PGFM, I'm new to GitHub.
 - 👀 I’m interested in web development/mobile development,
 - 🌱 I’m currently learning the three core of web development (HTML5, CSS3 and JavaScript). At the moment I am currently on CSS flexbox and grid.
 - 💞️ I’m looking to collaborate on building web pages
